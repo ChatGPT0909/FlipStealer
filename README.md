@@ -14,6 +14,9 @@
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
+## Important!
+THIS REPOSITORY CONTAINTS ORIGINAL EMPYREAN SOURCE CODE, IF YOU WANT THE FLIPSTEALER WHICH IS FUD AND USES TELEGRAM BOT API FOR RESULTS INSTEAD OF DISCORD WEBHOOKS WHICH ARE BEING TERMINATED, YOU MUST CONTACT ME ON TELEGRAM TO BUY! MY STEALER IS NOT OPEN-SOURCE
+
 ## Features
 
 -   FUD (Fully Undetectable)
@@ -93,6 +96,6 @@ FlipStealer is licensed under the <a href="https://mit-license.org/">MIT License
 ## Errors?
 
 -   Make an [issue](https://github.com/ChatGPT0909/FlipStealer/issues)
--   Contact me [Discord](https://t.me/ChatGPT0909)
+-   Contact me [Telegram](https://t.me/ChatGPT0909)
 
 <img src="img/footer.png">

